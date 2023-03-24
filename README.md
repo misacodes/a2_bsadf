@@ -12,4 +12,4 @@ This paper seeks to establish whether the Ethereum market reflects periodically 
 
 ### Results
 
-Our results strongly support the hypothesis of multiple bubbles emerging in the series. We date-stamp 15 bubbles over the investigated time period, ranging from 1 day to 73 days in length. The longest bubble period, spanning between February 2, 2017 and April 17, 2017, is discussed with respect to price evolution in the Bitcoin market, as well as with regards to Ethereum software being adopted for commercial use.
+Our results strongly support the hypothesis of multiple bubbles emerging in the series. We date-stamp 15 bubbles between July 2010 and February 2014, ranging from 1 day to 73 days in length. The longest bubble period, spanning between February 2, 2017 and April 17, 2017, is discussed with respect to price evolution in the Bitcoin market, as well as with regards to Ethereum software being adopted for commercial use.
