@@ -1,5 +1,5 @@
 # An Empirical Investigation into Speculative Bubbles in Ethereum’s Price
-*This repo contains the code for research paper on the speculative bubbles in ethereum’s price. Jonathon Mckeown and I stated this research as a group project in our Senior Sophister undergraduate year at Trinity College Dublin and later published it in the Student Economic Review.*
+*This repo contains the code for research paper on the speculative bubbles in ethereum’s price. Jonathon Mckeown and I started this research as a group project in our Senior Sophister undergraduate year at Trinity College Dublin and later published it in the Student Economic Review.*
 *To view the full paper, please see: https://www.tcd.ie/Economics/assets/pdf/SER/2020/17emprical_investigation_into_speculative_bubbles.pdf*
 
 ### Aims and objectives
